@@ -1,0 +1,8 @@
+{
+    "httpPort": 9000,
+    "data": {
+        "ip": "localhost",
+        "port": 27017,
+        "database": "userMgr"
+    }
+}
